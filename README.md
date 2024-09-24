@@ -14,6 +14,8 @@ This tool is intended for educational purposes and ethical hacking within legal 
 3. When the script indicates "BadUSB" mode in the PowerShell output, you will need to exit BadUSB mode on the Flipper to allow file copying.
 4. Files from the Windows PC will be copied to the Flipper Zero storage.
 
+TUTORIAL: https://www.youtube.com/watch?v=YMfVzDnLKu0
+
 ## Prerequisites
 
 - **Flipper Zero** with BadUSB functionality enabled.
