@@ -24,7 +24,7 @@ TUTORIAL: https://www.youtube.com/watch?v=YMfVzDnLKu0
 ## Usage
 
 ### 1. Modify the Script Variables
-Before running the script, update the following variables in the PowerShell command to match your environment:
+Before running the script, update the VID and PID that is allowed in your computer and finally update the following variables in the PowerShell command to match your environment:
 - `$sourceFilePath`: The source path on the Windows PC for the file you want to exfiltrate.
 - `$SPATH`: The destination path, which points to the Flipper Zero's storage.
 
