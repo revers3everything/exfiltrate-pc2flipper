@@ -1,6 +1,6 @@
 # Exfiltrate-PC2Flipper
 
-**Exfiltrate-PC2Flipper** is a Ducky Script project designed to exfiltrate files from a Windows PC to Flipper Zero's storage. This is especially useful when the computer restricts direct USB storage connections but allows PowerShell execution.
+**Exfiltrate-PC2Flipper** is a Ducky Script project designed to exfiltrate files from a Windows PC to Flipper Zero's storage. This is especially useful when the computer restricts direct USB storage connections but allows PowerShell execution. The attack uses fake VIDs and PIDs and also the transmision is through serial port communication.
 
 ![alt text](image.png)
 
