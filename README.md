@@ -33,3 +33,6 @@ Example:
 ```powershell
 $sourceFilePath = "C:\Users\path-source......REPLACE HERE"
 $SPATH = "/ext/apps_data/FILENAMEHERE"
+
+## Author:
+Danilo Erazo @revers3vrything
