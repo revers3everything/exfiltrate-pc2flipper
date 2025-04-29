@@ -11,7 +11,7 @@ This tool is intended for educational purposes and ethical hacking within legal 
 
 1. **Run the BadUSB script** on the target Windows machine via the Flipper Zero.
 2. The script will execute a PowerShell command to start the exfiltration process.
-3. When the script indicates "BadUSB" mode in the PowerShell output, you will need to exit BadUSB mode on the Flipper to allow file copying.
+3. When the script indicates "BadUSB" mode in the PowerShell output, you will need to exit BadUSB mode on the Flipper to allow file copying (To do this, just press the "back" key on the flipper zero to return to the main menu).
 4. Files from the Windows PC will be copied to the Flipper Zero storage.
 
 TUTORIAL: https://www.youtube.com/watch?v=YMfVzDnLKu0
