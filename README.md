@@ -22,6 +22,9 @@ TUTORIAL: https://www.youtube.com/watch?v=YMfVzDnLKu0
 - **PowerShell** must be enabled on the target Windows machine.
 - The "Num Lock/Bloq Num" key must be disabled in the keyboard.
 
+## Author:
+Danilo Erazo @revers3vrything
+
 ## Usage
 
 ### 1. Modify the Script Variables
@@ -33,6 +36,3 @@ Example:
 ```powershell
 $sourceFilePath = "C:\Users\path-source......REPLACE HERE"
 $SPATH = "/ext/apps_data/FILENAMEHERE"
-
-## Author:
-Danilo Erazo @revers3vrything
