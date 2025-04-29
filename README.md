@@ -20,6 +20,7 @@ TUTORIAL: https://www.youtube.com/watch?v=YMfVzDnLKu0
 
 - **Flipper Zero** with BadUSB functionality enabled.
 - **PowerShell** must be enabled on the target Windows machine.
+- The "Num Lock/Bloq Num" key must be disabled in the keyboard.
 
 ## Usage
 
