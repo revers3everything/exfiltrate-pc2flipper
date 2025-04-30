@@ -21,6 +21,7 @@ TUTORIAL: https://www.youtube.com/watch?v=YMfVzDnLKu0
 - **Flipper Zero** with BadUSB functionality enabled.
 - **PowerShell** must be enabled on the target Windows machine.
 - The "Num Lock/Bloq Num" key must be disabled in the keyboard.
+- At the moment, the exfiltration was tested only with .txt files.
 
 ## Author:
 Danilo Erazo @revers3vrything
